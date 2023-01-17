@@ -19,13 +19,11 @@ export default function App() {
           alt="React Logo"
           width="300"
         />
-        <img className="opacity-25" src={logo} alt="React Logo" width="300" />
-        <img className="opacity-25" src={logo} alt="React Logo" width="300" />
-        <img className="opacity-25" src={logo} alt="React Logo" width="300" />
+        
       </div>
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-right">
-        Welcome to Your New React App{" "}
+        Hola{" "}
         <span className="block text-lg text-blue-400">on DigitalOcean</span>
       </h1>
 
